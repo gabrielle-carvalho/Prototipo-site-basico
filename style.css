@@ -1,45 +1,34 @@
-h3 {
-    margin-left: 25px;
-    margin-right: 25px;
-    color: purple;
-    background-color: #a7a4ab;
+h1 {
     text-align: center;
+    color: #0079d5;
 }
 
 p {
+    margin-top: 15px;
     margin-left: 25px;
-    margin-right: 25px;
-    color: #5c0eb0;
+    margin-right: 10px;
 }
 
-.help {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 15px;
+h4 {
+    margin-top: 20px;
+    margin-left: 20px;
+    color: #0079d5;
 }
 
-.abbeyroad {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 15px;
+input,
+textarea {
+    width: 100%;
+    padding: 30px;
+    border: 0;
+    background-color: #0079d5;
+    color: #fff;
+    border-radius: 45px;
 }
 
 footer {
     background-color: rgba(0, 0, 0, 0.552);
     color: white;
     font-weight: 700;
-    height: 100px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-header {
-    background-color: rgba(0, 0, 0, 0.552);
-    color: white;
-    font-weight: 500;
     height: 100px;
     display: flex;
     justify-content: center;
